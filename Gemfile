@@ -75,4 +75,4 @@ gem 'dotenv-rails'
 
 gem "importmap-rails", "~> 1.1"
 
-gem 'turbo-rails'
+gem "webpacker"
