@@ -76,3 +76,5 @@ gem "webpacker"
 gem 'react-rails'
 
 gem 'dotenv-rails'
+
+gem "grape", "~> 1.6"
