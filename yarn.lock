@@ -7930,6 +7930,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react_ujs@npm:^2.6.1, react_ujs@npm:^2.6.2":
+  version: 2.6.2
+  resolution: "react_ujs@npm:2.6.2"
+  dependencies:
+    react_ujs: ^2.6.1
+  checksum: 4c96cbbc4445174179dfbea89b29a9dc3f5915cb96afdec1ce1d1eb5a7f4b2eb2db6d39fa275658f8d2f598e00e3f8411614ac02250381a51e9b52b44bd464fe
+  languageName: node
+  linkType: hard
+
 "read-cache@npm:^1.0.0":
   version: 1.0.0
   resolution: "read-cache@npm:1.0.0"
@@ -8248,6 +8257,7 @@ __metadata:
     prop-types: ^15.8.1
     react: ^18.2.0
     react-dom: ^18.2.0
+    react_ujs: ^2.6.2
     webpack: 4.46.0
     webpack-cli: 3.3.12
     webpack-dev-server: 3
