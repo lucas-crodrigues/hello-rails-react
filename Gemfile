@@ -76,3 +76,5 @@ gem 'dotenv-rails'
 gem "importmap-rails", "~> 1.1"
 
 gem "webpacker"
+
+gem "grape", "~> 1.6"
