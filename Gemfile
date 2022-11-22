@@ -74,3 +74,5 @@ end
 gem "webpacker"
 
 gem 'react-rails'
+
+gem 'dotenv-rails'
